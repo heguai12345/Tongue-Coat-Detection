@@ -1,0 +1,11 @@
+图片数量(jpg文件个数)：1000
+标注数量(txt文件个数)：1000
+标注类别数：5
+标注类别名称:["thin and white","rose","thick and white","thick and yellow","grayish black"]
+每个类别标注的框数：
+thin and white 框数 = 209
+rose 框数 = 187
+thick and white 框数 = 192
+thick and yellow 框数 = 214
+grayish black 框数 = 198
+总框数：1000
